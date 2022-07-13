@@ -1,5 +1,5 @@
 # Práctica
-## Ejercicio de Git bash
+## Ejercicio de Git bash.
 1. Clona el repositorio https://github.com/DavidBernalGonzalez/practicaGit.git
 2. Visualiza las distintas ramas que hay en el repositorio.
 3. Dentro del repositorio hay una carpeta llamada practica01, la encontrarás en la rama “practica01”. Sitúate en rama "practica01" para ver la carpeta practica01.
